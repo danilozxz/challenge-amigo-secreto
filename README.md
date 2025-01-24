@@ -1,6 +1,6 @@
 # Sorteio de Amigo Secreto
 
-Este projeto é um aplicativo simples para realizar sorteios de amigo secreto. Ele permite que os participantes insiram seus nomes e sejam sorteados automaticamente para realizar o sorteio entre todos os membros.
+Este é um projeto simples para realizar sorteios de amigo secreto. Ele permite que os participantes insiram seus nomes e sejam sorteados automaticamente para realizar o sorteio entre todos os membros.
 
 ## Tecnologias Utilizadas
 
